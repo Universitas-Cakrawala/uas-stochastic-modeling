@@ -190,7 +190,7 @@ Bar chart di atas memvisualisasikan tiga metrik evaluasi utama:
 - **R² Score**: Proporsi variasi yang dapat dijelaskan oleh model (semakin tinggi semakin baik)
 
 #### Key Findings:
-- 🏆 **Linear Regression** menunjukkan performa terbaik dengan R² = 0.4173
+- **Linear Regression** menunjukkan performa terbaik dengan R² = 0.4173
 - Random Forest berada di posisi kedua meski lebih kompleks
 - Decision Tree mengalami overfitting dengan R² negatif
 
