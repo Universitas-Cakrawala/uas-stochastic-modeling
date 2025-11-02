@@ -323,9 +323,3 @@ Matrix konfusi di atas menunjukkan performa model klasifikasi dalam memprediksi 
 2. Scikit-learn Documentation
 3. Pandas Documentation
 4. Seaborn & Matplotlib Documentation
-
----
-
-**Terima Kasih!**
-
-*Presentasi ini mendemonstrasikan penerapan supervised learning dalam prediksi harga properti dengan pendekatan systematic dan data-driven approach.*
